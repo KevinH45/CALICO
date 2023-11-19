@@ -5,6 +5,7 @@
         "queue": "cpp",
         "iostream": "cpp",
         "string": "cpp",
-        "bitset": "cpp"
+        "bitset": "cpp",
+        "ostream": "cpp"
     }
 }
