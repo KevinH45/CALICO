@@ -4,6 +4,7 @@
         "iterator": "cpp",
         "queue": "cpp",
         "iostream": "cpp",
-        "string": "cpp"
+        "string": "cpp",
+        "bitset": "cpp"
     }
 }
