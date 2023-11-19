@@ -47,7 +47,6 @@ public class prob8 {
             for (int passenger: ending.get(ptr)){
                 if (subway.contains(passenger)){
                     subway.remove(passenger);
-                    ending.remove(passenger);
                     currentPassengers --;
                 }
             } 
